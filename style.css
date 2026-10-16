@@ -61,7 +61,7 @@ a:hover {
 .menu-card h1 {
     color: #A52A2A;
     line-height: 2.4rem;
-    margin-bottom: 16px;
+    margin: 0 auto;
 }
 .menu-card h2 {
     color:#A52A2A;
