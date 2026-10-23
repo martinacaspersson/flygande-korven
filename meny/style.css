@@ -89,3 +89,21 @@ footer .text {
 h1, h2, h3 {
     color: #A52A2A;
 }
+
+@media (max-width: 599px) {
+    .card {
+        flex-direction: column;
+    }
+    .mid-menu {
+        flex-direction: column;
+    }
+    li {
+        margin-bottom: 0px;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 700px) {
+    .card {
+        background: #4A0404;
+    }
+}
